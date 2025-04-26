@@ -10,8 +10,14 @@ Link: https://www.kaggle.com/datasets/charitarth/semeval-2014-task-4-aspectbased
 Modules:
 
 Data pre-processing
+
 Data augmentation using LLM
+
 Adversarial Sample Generation using LLM
+
 Dependancy Parsing using spaCy Model
+
 Context based filtering using LLM
+
 LLaMA-LoRA fine tuning with integrated K-fold cross validation.
+
